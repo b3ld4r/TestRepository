@@ -14,6 +14,7 @@ public class Main {
         }
 
         System.out.println("Test finished!");
+        System.out.println("Merge finished.");
 
     }
 }
