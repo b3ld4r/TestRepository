@@ -1,4 +1,3 @@
-### TestStash
 ### Java template
 # Compiled class file
 *.class
@@ -36,4 +35,4 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-/.idea
+.idea/
