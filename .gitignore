@@ -36,5 +36,4 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 .idea/
-src/main/resources/
-src/test/
+*.gitignore_*
